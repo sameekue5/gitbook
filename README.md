@@ -1,2 +1,2 @@
-# Art of Shader Documentation
+# Page
 
