@@ -1,3 +1,0 @@
-# Localization
-
-Localization is a technique of adding Post Process Materials in the level, so that it affects only part of the level, and not the entire scene. For example, you have a CelShaded Material, and you do not want the entire scene to have the effect, when you apply the same in your level, but rather a few objects, or a part of the screen. For this, you need to use Localization. In my shader packs, I have used two types of Localization, <mark style="color:orange;">**Object Space**</mark> <mark style="color:orange;">**Localization**</mark>, using Custom Depth Stencil, and <mark style="color:orange;">**Screen Space Localization**</mark>, using displaced UVs.
